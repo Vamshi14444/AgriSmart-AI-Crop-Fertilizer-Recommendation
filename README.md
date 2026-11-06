@@ -1,0 +1,1 @@
+# AgriSmart-AI-Crop-Fertilizer-Recommendation
